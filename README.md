@@ -1,6 +1,6 @@
 # Verilog RGB-to-Grayscale Image Converter
-#Note: You should not synthesize this code because it is not designed for running on FPGA, but rather for functional verification purposes
-#Using Modelsim.
+# Note: You should not synthesize this code because it is not designed for running on FPGA, but rather for functional verification purposes
+# Using Modelsim.
 
 This project converts a full-color RGB image into an 8-bit grayscale image using a Verilog RTL module and ModelSim/QuestaSim functional simulation.
 
