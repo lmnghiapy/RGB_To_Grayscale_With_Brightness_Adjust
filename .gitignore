@@ -1,0 +1,30 @@
+﻿# ModelSim / Questa generated files
+work/
+transcript
+vsim.wlf
+*.wlf
+*.log
+*.jou
+*.cr.mti
+*.prw
+*.psm
+_primary.*
+*.mpf
+
+# Backup files
+*.bak
+*~
+
+# Generated image data
+baitap2_pic_input.txt
+baitap2_pic_output.txt
+pic_output*.txt
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+
+# Windows generated files
+Thumbs.db
+desktop.ini
